@@ -1,2 +1,2 @@
 # AzartGame
-Test roulette
+Test slot machine
